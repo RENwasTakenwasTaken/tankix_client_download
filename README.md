@@ -5,6 +5,7 @@ This TankiX Launcher/Installer (for the Revived Version of Tanki X) was scripted
 Tanki X was unfortunately closed by AlternativaGames (game developer company) in the end of 2019 due to some complications taking place, which made it harder for them to sustain the development of the game. More info is shared in the link down below:
 - https://tankix.com/en/news/tanki-x-is-discontinued-in-the-end-of-2019/
 
+
 Written in: **Python**
 
 Libraries Used:
