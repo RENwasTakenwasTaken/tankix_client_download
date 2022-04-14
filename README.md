@@ -11,6 +11,8 @@ Since the installation process was quite lengthy/technical/hectic for some peopl
 
 **Installer/Launcher Details**
 
+- Revive Tanki X Installer Download Link: https://mega.nz/file/0vA1kITT#l1uaBZOnhJSvVNjcW77uuOhRosN4OTwuOIwTG78egOs
+
 Installer Written in: **Python**
 
 Libraries Used:
