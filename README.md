@@ -5,8 +5,13 @@ This TankiX Launcher/Installer (for the Revived Version of Tanki X) was scripted
 Tanki X was unfortunately closed by AlternativaGames (game developer company) in the end of 2019 due to some complications taking place, which made it harder for them to sustain the development of the game. More info is shared in the link down below:
 - https://tankix.com/en/news/tanki-x-is-discontinued-in-the-end-of-2019/
 
+Many missed the game, and some made efforts to bring the game back to life. These efforts were a success and gave birth to the **Revive Tanki X** community, where more than 1000 accounts are registered at the date in the customary created servers.
 
-Written in: **Python**
+Since the installation process was quite lengthy/technical/hectic for some people, I decided to make a Console-Based launcher for it which only required a few clicks and key-presses. (an attempt to make a GUI-based launcher was made too, by the user **WarGack**)
+
+**Installer/Launcher Details**
+
+Installer Written in: **Python**
 
 Libraries Used:
 - OS
