@@ -1,4 +1,7 @@
 # TankiX Client Installer - Behind the Scenes (script reveal)
+
+This TankiX Launcher/Installer was scripted specifically for people who would not want to do much technical stuff, but want a straightforward install for Tanki X.
+
 Written in: **Python**
 
 Libraries Used:
