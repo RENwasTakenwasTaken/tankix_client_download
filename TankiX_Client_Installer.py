@@ -2,8 +2,8 @@ import patoolib, os, shutil
 
 # define and declare the values of variables, which are required to do the installation tasks
 
-updated_yml = "---\ninitUrl: http://135.125.181.45/TXServer/StateServer/config/init.yml\nstateUrl: http://135.125.181.45/TXServer/StateServer/state/tankixprod_state.yml\ncurrentClientVersion: master-48606"
-install_dir = os.environ['USERPROFILE'] + "\Documents"
+updated_yml = "---\ninitUrl: http://main.txrevive.com/TXServer/StateServer/config/init.yml\nstateUrl: http://135.125.181.45/TXServer/StateServer/state/tankixprod_state.yml\ncurrentClientVersion: master-48606"
+install_dir = os.environ['USERPROFILE'] + "\AppData\Local\TankiX"
 
 # extraction process
 
